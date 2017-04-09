@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Happy Birthday App</string>
+    <string name="message_text">Happy Birthday :) Your gift is a trip to: Barcelona!!! :)"</string>
+    <string name="message_from">From me!</string>
+    <string name="content_d">background</string>
+</resources>
